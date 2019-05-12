@@ -1,9 +1,9 @@
 # SpaceSheep
 _A sprite-based 3D game created at Bellevue College's 2017 Global Game Jam._
 
-You tried to colonize another planet. The planet had sheeps. They seemed fine. They are not. They get REALLY upset at night. 
+You tried to colonize a foreign planet. The planet had sheeps. They looked cute at day. Then the sun set. The sheeps turned hostile. They attacked your ship. Now, your communication with the mothership is falling apart. 
 
-Collect uranium ores every night to maintain communication with mothership OR die.
+Collect uranium ores that only spawn at night to keep transmitting your locaton OR... die.
 
 ## Screenshots
 
